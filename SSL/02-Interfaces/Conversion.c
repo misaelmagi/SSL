@@ -10,4 +10,4 @@ double Celsius(double fahr){
 };
 double Farenheit(double cel){
 	return cel*1.8+32;
-};
+}; /*algo mas?*/
