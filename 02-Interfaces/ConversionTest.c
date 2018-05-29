@@ -1,3 +1,8 @@
+/* ConversionTest.c
+ * Programa para pruebas de conversor de temperatura
+ * Equipo 3
+ * 20180529
+ */
 #include <assert.h>
 #include "Conversion.h"
 int main(){

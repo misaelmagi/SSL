@@ -1,3 +1,8 @@
+/* Conversion.c
+ * Fuente para conversion de temperaturas
+ * Equipo 3
+ * 20180529
+ */
 #include "Conversion.h"
 #include <stdio.h>
 double Celsius(double fahr){
